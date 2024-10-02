@@ -1,4 +1,4 @@
-![Alt text](https://github.com/ashwaniverma-github/ashwaniverma-github/blob/main/gitpro.jpg)
+![Alt text](https://github.com/ashwaniverma-github/ashwaniverma-github/blob/main/gitpro.1jpg.png)
 
 <div align="center">
   <h1><b>Ashwani Verma</b></h1>
