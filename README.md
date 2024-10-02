@@ -4,7 +4,7 @@
   </a>
   &nbsp; <!-- Space between icons -->
   <a href="https://twitter.com/ashwanivermax" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_X_%28formerly_Twitter%29.svg" alt="X" width="20" height="20" style="background-color:black; border-radius: 5px; padding: 2px;"/>
+    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/x--v1.png" alt="X" width="20" height="20" style="background-color:black; border-radius: 5px; padding: 2px;"/>
   </a>
 
   <h1><b>Ashwani Verma</b></h1>
