@@ -3,4 +3,13 @@
 <div align="center">
   <h1><b>Ashwani Verma</b></h1>
   <h3>Amateur solopreneur: Building products to create small impacts in life</h3>
+
+  <!-- LinkedIn and X icons with links -->
+  <a href="https://www.linkedin.com/in/ashwani-verma-ba2659326/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp; <!-- Space between icons -->
+  <a href="https://twitter.com/ashwanivermax" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="40" height="40"/>
+  </a>
 </div>
