@@ -5,8 +5,8 @@
   <h3>Amateur solopreneur: Building products to create small impacts in life</h3>
 </div>
 
-<h3>Building - <a href="https://www.devpage.in" target="_blank">devpage.in</a></h3>
-<h3>My DevPage - <a href="https://www.devpage.in/ashwani" target="_blank">devpage.in/ashwani</a></h3>
+<h5>Building - <a href="https://www.devpage.in" target="_blank">devpage.in</a></h5>
+<h5>My DevPage - <a href="https://www.devpage.in/ashwani" target="_blank">devpage.in/ashwani</a></h5>
 
 <a href="https://www.linkedin.com/in/ashwani-verma-ba2659326/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/>
