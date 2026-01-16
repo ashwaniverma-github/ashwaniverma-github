@@ -2,12 +2,9 @@
 
 <div align="center">
   <h1><b>Ashwani Verma</b></h1>
-  <h3>Amateur solopreneur: Building products to create small impacts in life</h3>
+  <h3>Building products to create small impacts that matter. Available for monthly retainer and freelance projects.</h3>
 </div>
 
-<h4><a href="https://www.devpage.in" target="_blank">devpage.in</a></h4>
-
-<h4><a href="https://www.soengageai.com" target="_blank">soengageai.com</a></h4>
 
 <a href="https://www.linkedin.com/in/ashwani-verma-ba2659326/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/>
