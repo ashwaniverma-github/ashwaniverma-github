@@ -6,7 +6,7 @@
 </div>
 
 
-<a href="https://www.linkedin.com/in/ashwani-verma-ba2659326/" target="_blank">
+<a href="https://www.linkedin.com/in/ashwani-verma-ba265932326/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/>
 </a>
 &nbsp;
@@ -14,3 +14,10 @@
 <a href="https://twitter.com/ashwanivermax" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/FFFFFF/x--v1.png" alt="X" width="20" height="20" style="background-color:black; border-radius: 5px; padding: 2px;"/>
 </a>
+
+
+## Skills
+
+- Full-stack development
+- Docker
+- AWS
